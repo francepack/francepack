@@ -14,11 +14,14 @@
 ![](https://img.shields.io/badge/CMSDev-WordPress-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 ## Thanks for stopping by
-Hi, I'm Mason!
+:wave: Hi, I'm Mason!
 ### Most recently, I worked at [Needle](https://www.needle.com/) as a contract software developer.
 - I implemented redeisgn wireframes for the company's website linked above in wordpress, building upon custom themes, making new pages, learning the intricacies of css in wordpress sites, implementing a responsive design, and closely following wireframes. One accomplishment was custom coding the presentation of employees on the [About Us page](https://www.needle.com/company/about-us)
 - I worked on features for a client reporting dashboard, specifically on permissions structures controlling what content is visible, and allowing a superuser to customize what content is viewable. This required tweaking how the data represented who super users are, as well as setting up a permissions structure to control what content was turned on or off. I worked in an angular.js codebase, learning about scope, directives, and data binding.
 - I researched how to build custom HTML email templates as a solo project, adhering to industry standards, and formatting in a way that renders effectively across email platforms, testing many different browser views in the process. This template was put into production by a major client.
+
+### Projects
+- I am working on my long term project when I have time- ChefNextDoor. I wanted to build a 
 
 ### Currently...
 - I am an instructor for students about to enroll at [Turing School](https://turing.io/), teaching git/github use, basic code/data type syntax, and OOP. We are constantly iterating over curriculum to improve what we teach, and better prepare students for the rigor of Turing.
