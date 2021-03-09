@@ -1,5 +1,4 @@
-![Mason France](Mason_France.png)
-
+<img src="Mason_France.png" width="100%" />
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
