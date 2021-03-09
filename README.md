@@ -9,13 +9,22 @@
 ![](https://img.shields.io/badge/Data-PostreSQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Data-GraphQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Data-MongoDB-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/TDD-Jest/Enzyme-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/TDD-Mocha/Chai-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CI-Circle.ci-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CI-Travis.ci-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CMSDev-HubSpot-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CMSDev-WordPress-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Skill-Responsive_Design-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Skill-HTML_Email_Templates-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Skill-HTML_Email_Templates-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Skill-Github-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Skill-Agile-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 ## Thanks for stopping by
 :wave: Hi, I'm Mason!
 ### Most recently, I worked at [Needle](https://www.needle.com/) as a contract software developer.
-- I implemented redeisgn wireframes for the company's website linked above in wordpress, building upon custom themes, making new pages, learning the intricacies of css in wordpress sites, implementing a responsive design, and closely following wireframes. One accomplishment was custom coding the presentation of employees on the [About Us page](https://www.needle.com/company/about-us)
+- I implemented redeisgn wireframes for the company's website linked above in wordpress, building upon custom themes, making new pages, learning the intricacies of css in wordpress sites, implementing a responsive design, and closely following wireframes. One accomplishment was creating the presentation of employees on the [About Us page](https://www.needle.com/company/about-us).
 - I worked on features for a client reporting dashboard, specifically on permissions structures controlling what content is visible, and allowing a superuser to customize what content is viewable. This required tweaking how the data represented who super users are, as well as setting up a permissions structure to control what content was turned on or off. I worked in an angular.js codebase, learning about scope, directives, and data binding.
 - I researched how to build custom HTML email templates as a solo project, adhering to industry standards, and formatting in a way that renders effectively across email platforms, testing many different browser views in the process. This template was put into production by a major client.
 
