@@ -33,7 +33,8 @@
 - I run escape rooms online for [Paruzal](https://paruzal.com/).
 - I sing with [Kantorei](https://kantorei.org/) and St. John's Cathedral Choir.
 
-#### Project
+#### Projects
+- I am making an application to help run my virtual escape rooms. Some of the challenges are thinking about scalability, turning a game script into data, making users log in too protect game data, making user friendly scripts in smalll portions of the screen, responding to different screen sizes, and customization options.
 - I work on my long term project when I have time- ChefNextDoor. I want to build an application that connects local chefs to one another, allowing people to connect over cuisine. Another inspiration for this project was to try my hand at building a backend with ruby, and continue to practice Vue. Allso, it has been an opportunity to learn about authorization patterns. 
 <!--
 **francepack/francepack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
